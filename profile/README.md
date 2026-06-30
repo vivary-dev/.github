@@ -1,4 +1,4 @@
-![Vivary - typed memory and gates for agent workspaces](./assets/vivary-hero.svg)
+[![Vivary - typed memory and gates for agent workspaces](./assets/vivary-hero.svg)](https://vivary.vercel.app)
 
 # Vivary
 
